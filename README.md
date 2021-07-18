@@ -1,11 +1,11 @@
-<h1 align="center">Hello, World 👋, I'm Guilherme M. Dornelles</h1>
-<h3 align="center">Web Developer Student - Html | JavaScript| Css| Jest| React|Python| MySQL| Node</h3>
+<h1 align="center">Hi 👋, I'm Guilherme M. Dornelles</h1>
+<h3 align="center">Student Web Developer - Html | JavaScript| Css| Jest| React|Python| MySQL| Node</h3>
 
 - 📫 How to reach me **guilherme.md@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/guilherme-dornelles-97780b200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilherme-dornelles-97780b200/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guilherme-dornelles-97780b200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme-dornelles-97780b200/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16475455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16475455" height="30" width="40" /></a>
 </p>
 
