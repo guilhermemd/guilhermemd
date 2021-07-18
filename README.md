@@ -1,7 +1,8 @@
 <h1 align="center">Hello, wold :earth_americas:, I'm Guilherme M. Dornelles :wink:</h1>
+<h2 align="center"> :speaking_head: Languages:  :brazil: :uk: </h2>
 <h3 align="center">Web Developer Student - Html | JavaScript| Css| Jest| React|Python| MySQL| Node</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guilhermemd" alt="guilhermemd" /></a> </p>
+
 
 - 📫 How to reach me **guilherme.md@gmail.com**
 
