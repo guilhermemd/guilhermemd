@@ -1,4 +1,4 @@
-<h1 align="center">Hello, wold :earth_americas:, I'm Guilherme M. Dornelles :wink:</h1>
+<h1 align="center">Hello, wolrd :earth_americas:, I'm Guilherme M. Dornelles :wink:</h1>
 <h2 align="center"> :speaking_head: Languages:  :brazil: :uk: </h2>
 <h3 align="center">Web Developer Student - Html | JavaScript| Css| Jest| React|Python| MySQL| Node</h3>
 
