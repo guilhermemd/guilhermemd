@@ -1,6 +1,6 @@
 <h1 align="center">Hello, world :earth_americas:, I'm Guilherme M. Dornelles :wink:</h1>
 <h2 align="center"> :speaking_head: Languages:  :brazil: :uk: </h2>
-<h3 align="center">Web Developer Student - Html | JavaScript| Css| Jest| React|Python| MySQL| Node</h3>
+<h3 align="center">Web Developer Student - Html | JavaScript| Css| Jest| React| MySQL</h3>
 
 
 
