@@ -5,6 +5,7 @@
 
 
 - 📫 How to reach me **guilherme.md@gmail.com**
+- See my <a href="https://gitconnected.com/guilhermemd/resume">CV</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
